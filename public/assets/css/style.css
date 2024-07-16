@@ -1,0 +1,19 @@
+/*================================================================================
+	Item Name: Vital trends Codeigniter Admin Dashboard Template
+	Version: 2.0
+	Author: Naveender Singh
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.watermark {
+    top: 60%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+    opacity: 0.1;
+    z-index: -1;
+    position: fixed;
+    max-width: 450px;
+}
